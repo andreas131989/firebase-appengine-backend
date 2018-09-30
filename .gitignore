@@ -28,7 +28,7 @@ buildNumber.properties
 .mvn/timing.properties
 
 # Google services configuration file
-src/main/webapp/WEB-INF/*-*-*.json
+# src/main/webapp/WEB-INF/*-*-*.json
 
 # Attributes of the parent folder on macOS
 .DS_Store
