@@ -9,11 +9,11 @@
     </init-param>
     <init-param>
       <param-name>credential</param-name>
-      <param-value>/WEB-INF/JSON_FILE_NAME</param-value>
+      <param-value>/WEB-INF/playchat-9a489-e6683d0a808e.json</param-value>
     </init-param>
     <init-param>
       <param-name>databaseUrl</param-name>
-      <param-value>FIREBASE_URL</param-value>
+      <param-value>https://playchat-9a489.firebaseio.com</param-value>
     </init-param>
     <init-param>
       <param-name>purgeLogs</param-name>
